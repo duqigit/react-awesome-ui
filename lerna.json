@@ -3,6 +3,9 @@
   "npmClient": "pnpm",
   "packages": ["packages/*"],
   "command": {
+  "publish": {
+    "timeout": 60000,
+  },    
     "version": {
       "allowBranch": ["master"]
     }

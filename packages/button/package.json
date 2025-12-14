@@ -23,5 +23,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "packageManager": "pnpm@10.6.2"
+  "packageManager": "pnpm@10.6.2",
+  "gitHead": "a65815990366161f1ec8ddb1c79102f680b8e98d"
 }
