@@ -1,13 +1,13 @@
 {
-
-
   "name": "@awesome-ui/button",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "React Button component",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "sideEffects": false,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -16,7 +16,7 @@
   "peerDependencies": {
     "react": ">=16.8",
     "react-dom": ">=16.8"
-  },  
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
