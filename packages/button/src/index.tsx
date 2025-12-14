@@ -5,7 +5,7 @@ export interface ButtonProps {
 }
 
 export const Button: React.FC<ButtonProps> = ({ children }) => {
-  return <button>{children}</button>;
+  return <button>{children} version test</button>;
 };
 
 export default Button;
