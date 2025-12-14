@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-    "publishConfig": {
+  "publishConfig": {
     "access": "public"
   },
   "sideEffects": false,
