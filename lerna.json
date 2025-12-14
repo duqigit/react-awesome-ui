@@ -4,7 +4,7 @@
   "packages": ["packages/*"],
   "command": {
   "publish": {
-    "timeout": 60000,
+    "timeout": 60000
   },    
     "version": {
       "allowBranch": ["master"]
