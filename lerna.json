@@ -1,5 +1,10 @@
 {
   "version": "independent",
   "npmClient": "pnpm",
-  "packages": ["packages/*"]
+  "packages": ["packages/*"],
+  "command": {
+    "version": {
+      "allowBranch": ["main"]
+    }
+  }
 }
