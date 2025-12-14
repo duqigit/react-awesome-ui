@@ -1,5 +1,5 @@
 {
-  "name": "@awesome-ui/button",
+  "name": "react-awesome-button",
   "version": "0.1.5",
   "description": "React Button component",
   "main": "dist/index.js",
