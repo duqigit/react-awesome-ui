@@ -11,11 +11,16 @@
     "publish": "lerna publish from-git"
   },
   "devDependencies": {
-    "lerna": "^9.0.3"
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.2.3",
+    "lerna": "^9.0.3",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "tsup": "^8.5.1",
+    "typescript": "^5.9.3"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "packageManager": "pnpm@10.6.2",
-  "dependencies": {}
+  "packageManager": "pnpm@10.6.2"
 }
